@@ -32,7 +32,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 ## 📂 My Projects
 
-- **[Project Name](Project URL)**: This repo contains my leetcode wins and fails along with some codes from my curriculum
+- **[SKILZ](http://github.com/crabby605/SKILLZ)**: This repo contains my leetcode wins and fails along with some codes from my curriculum
 - **[Another Project](Another URL)**: My Portfoio repo
 
 ## 🤝 Connect with Me
