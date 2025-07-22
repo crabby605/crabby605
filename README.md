@@ -13,7 +13,7 @@
   Music streaming app with waveform visualization, Cloudflare R2 uploads, intelligent caching, offline support, and a glassy UI. Built with Next.js 15.
 
 -  **[VMDL](https://github.com/crabby605/vmdl)**  
-  A minimal, blazing-fast alternative to TOML with zero external dependencies, aimed at embedded and performance-critical workflows.
+  A minimal, blazing-fast alternative to TOML, aimed at embedded and performance-critical workflows.
 
 ---
 
